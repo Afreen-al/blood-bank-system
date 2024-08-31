@@ -23,5 +23,7 @@ User Roles & Access Control: Defines different user roles (e.g., admin, donor, r
 Mobile Accessibility: Provides a mobile-friendly interface or app for users to access the system, schedule donations, and receive alerts on the go.
 
 Compliance & Audit: Ensures the system complies with healthcare regulations and facilitates easy auditing of blood donation and inventory records.
+![image](https://github.com/user-attachments/assets/d47d19a4-b7c1-475d-883e-6448ab82e3af)
+
 
 
